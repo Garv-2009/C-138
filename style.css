@@ -1,0 +1,40 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: "chalkboard";
+}
+.h{
+    width: 100%;
+
+}
+.h .b{
+   float: right;
+   margin-top: 15px;
+   font-size: 20px;
+}
+.h .a{
+    float: left;
+}
+.i{
+    width: 100%;
+    height: 50%;
+}
+.b2{
+    font-size: 25px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.images{
+    width: 45%;
+}
+.footer{
+    bottom: 0;
+    width: 100%;
+}
+video{
+ background:url("game_console.png");
+ background-position: center;
+ background-size: cover;
+ padding: 25px;
+}
